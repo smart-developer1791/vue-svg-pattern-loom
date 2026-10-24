@@ -1,0 +1,18 @@
+{
+  "format": "PL/1",
+  "title": "A little wildflower",
+  "motif": "petal",
+  "tile": 100,
+  "size": 62,
+  "rotation": 0,
+  "stroke": 2,
+  "stagger": true,
+  "background": "#f8eddb",
+  "ink": "#bf664b",
+  "detail": "#dfa84e",
+  "provenance": {
+    "project": "vue-svg-pattern-loom",
+    "author": "CodeSculptor",
+    "marker": "PL-3B0705E9"
+  }
+}

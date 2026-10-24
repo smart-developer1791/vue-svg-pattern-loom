@@ -1,0 +1,25 @@
+@import './base.css';
+@layer base {
+  :root {
+    --bg: #f6f1e8;
+    --surface: #fffdf8;
+    --ink: #34392e;
+    --muted: #898779;
+    --accent: #6b7951;
+    --on-accent: #fff;
+    --line: #e2decf;
+    --input: #fffefa;
+    --canvas: #ede8dc;
+    --hover: #f0eddf;
+    --danger: #bb4f40;
+  }
+  .pattern-canvas {
+    @apply w-full h-full block;
+  }
+  details {
+    @apply mt-5.5;
+  }
+  summary {
+    @apply cursor-pointer text-[length:12px] text-muted;
+  }
+}
